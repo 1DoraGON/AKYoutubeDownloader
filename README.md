@@ -22,7 +22,7 @@ A simple, open-source tool for downloading YouTube videos, playlists, and audio 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/youtube-downloader.git
+   git clone https://github.com/1DoraGON/AKYoutubeDownloader.git
    cd youtube-downloader
    ```
 
